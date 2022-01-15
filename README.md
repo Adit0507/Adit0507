@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on web development projects
-- 🌱 I’m currently learning ReactJS :globe_with_meridians:
+- 🌱 I’m currently learning React JS :globe_with_meridians:
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 Reach me: (adi05072002@gmail.com)
 
