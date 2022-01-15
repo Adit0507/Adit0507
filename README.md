@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning ReactJS :globe_with_meridians:
 - 👯 I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/aditya-kumar-singh-87b0a3208) & :love_letter: (mailto:adi05072002@gmail.com)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/aditya-kumar-singh-87b0a3208) & :love_letter:[Mail](mailto:adi05072002@gmail.com)
 
 
 ------------
