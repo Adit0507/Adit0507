@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React JS :globe_with_meridians:
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 Reach me: (adi05072002@gmail.com)
-
+- ⚡ Fun Fact: I love writing about films
 
 ------------
 <h3 align="left">Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px"></h3>
