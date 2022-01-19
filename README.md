@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/adityathakekar/adityathakekar/blob/master/wave.gif" width="30px"> , I'm Aditya Kumar Singh </h1> 
 <h3 align="center">A Passionate Web Developer</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adit0507&label=Profile%20views&color=0e75b6&style=flat" alt="Adit0507" /> </p>
 
+<h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning React JS :globe_with_meridians:
