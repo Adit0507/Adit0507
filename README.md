@@ -6,8 +6,8 @@
 <h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working on web development projects
-- 🌱 I’m currently learning React :globe_with_meridians:
-- 👯 I’m looking to collaborate on Open Source Projects
+- 🌱 I’m currently learning **React** :globe_with_meridians:
+- 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me: (adi05072002@gmail.com)
 - ⚡ Fun Fact: I love writing about films
 
