@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://github.com/adityathakekar/adityathakekar/blob/master/wave.gif" width="30px"> , I'm Aditya Kumar Singh </h1> 
-<h3 align="center">A Passionate Web Developer</h3>
+![Aditya Kumar Singh (1)](https://user-images.githubusercontent.com/78037846/151691168-5640afbc-074d-4d19-a65d-b95a9b097c68.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adit0507&label=Profile%20views&color=0e75b6&style=flat" alt="Adit0507" /> </p>
 
