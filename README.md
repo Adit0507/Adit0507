@@ -47,8 +47,6 @@
 <p align="center">
 <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adit0507&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=" />
   </p>
-  <br><br>
-  
 <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
 <p align="center">
