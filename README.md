@@ -38,13 +38,13 @@
 </div>
 
 -------------------------
-<h2>Github Stats 📈:</h2>
-
-  <p align="center">
+  <h2 align="center">My GitHub Stats </h2>
+ <p align="center">
   <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=Adit0507&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
   <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adit0507&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=" />
   </p>
 
+  
 <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
 <p align="center">
