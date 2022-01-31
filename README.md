@@ -1,5 +1,5 @@
 
-![Aditya K  Singh](https://user-images.githubusercontent.com/78037846/151691873-c412f876-40ee-49c2-80e6-b29f5104f445.png)
+![Aditya K  Singh](https://user-images.githubusercontent.com/78037846/151830343-426f43fe-5f23-4c1d-bd02-fa2912a7196f.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adit0507&label=Profile%20views&color=0e75b6&style=flat" alt="Adit0507" /> </p>
 
@@ -52,13 +52,7 @@
 </p>
 </details>
 
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adit0507&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
-  </a>
-</p>
+  <h2 align="center">Do Check out my Pinned Projects 😃 </h2>
 
  -------------------------
  
