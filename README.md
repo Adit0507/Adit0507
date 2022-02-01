@@ -1,5 +1,5 @@
 
-![Aditya K  Singh](https://user-images.githubusercontent.com/78037846/151850047-12e7d5ad-8a47-4a7b-90a4-4930cbe33ee1.gif)
+![Aditya K  Singh (1)](https://user-images.githubusercontent.com/78037846/151928290-06638c46-5a1e-4c5f-8ab5-ef44f1a10b01.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adit0507&label=Profile%20views&color=0e75b6&style=flat" alt="Adit0507" /> </p>
 
