@@ -1,13 +1,11 @@
+![Blue Illustration Programming  Google Classroom Header](https://user-images.githubusercontent.com/78037846/152479672-7c967bfb-b80a-40e1-a962-a5a5a0393e9d.png)
 
-![Aditya K  Singh (1)](https://user-images.githubusercontent.com/78037846/151928290-06638c46-5a1e-4c5f-8ab5-ef44f1a10b01.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adit0507&label=Profile%20views&color=0e75b6&style=flat" alt="Adit0507" /> </p>
 
 <h3 align="left">About Me:</h3>
+<p>Hi Everyone, I'm Aditya Kumar Singh a sophomore student of Sikkim Manipal Institute of Technology. I'm currently learning Full Stack web development by building projects and I'm looking forward to contribute to open source projects and expand my skills. </p>
 
-- 🔭 I’m currently working on web development projects
-- 🌱 I’m currently learning **React** :globe_with_meridians:
-- 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me: (adi05072002@gmail.com)
 - ⚡ Fun Fact: I love writing about films
 
