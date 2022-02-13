@@ -7,6 +7,7 @@
 <p>Hi Everyone 👋, I'm Aditya Kumar Singh a sophomore student of Sikkim Manipal Institute of Technology. I'm currently learning Full Stack web development by building projects and also I have knowledge about Data Structures and Algorithms. I'm looking forward to collaborate on Open Source projects </p>
 
 - I'm currently learning **React** and **JavaScript**
+- Ask me about JavaScript
 - 📫 Reach me: (adi05072002@gmail.com)
 - ⚡ Fun Fact: I love writing about films
 
