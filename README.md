@@ -9,7 +9,7 @@
 - I'm currently learning **React** and **JavaScript**
 - Ask me about JavaScript
 - 📫 Reach me: (adi05072002@gmail.com)
-- ⚡ Fun Fact: I love writing about films
+- ⚡ Fun Fact: I'm a film buff
 
 ------------
 <h3>Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="35"></h3>
