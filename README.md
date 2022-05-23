@@ -63,12 +63,6 @@
  <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adit0507&theme=radical" />
 </p>
 
-<details align="center">
-  <summary>GitHub Activity Graph 📈</summary>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Adit0507&theme=xcode" />
-</p>
-</details>
   <br>
  
 
