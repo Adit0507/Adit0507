@@ -17,7 +17,7 @@
 <p>
 <a href="https://twitter.com/Adityas88760117" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="aditya twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aditya-kumar-singh-87b0a3208/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_aditksingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aditksingh?igshid=vj0xylgo6x3v" height="30" width="40" /></a>
+
 
 -------------------
  
