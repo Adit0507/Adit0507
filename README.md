@@ -15,9 +15,9 @@
 <h3>Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="35"></h3>
 
 <p>
-<a href="https://twitter.com/Adityas88760117" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="aditya twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aditya-kumar-singh-87b0a3208/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_aditksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_aditksingh" height="30" width="40" /></a>
+<a href="https://twitter.com/Adityas88760117" target="_blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="aditya twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-kumar-singh-87b0a3208/" target="_blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_aditksingh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_aditksingh" height="30" width="40" /></a>
 
 
 -------------------
