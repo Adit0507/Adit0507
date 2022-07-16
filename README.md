@@ -56,14 +56,7 @@
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  
 </div>
-
--------------------------
-  <h2 align="center">My GitHub Stats </h2>
-<p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adit0507&show_icons=true&theme=radical&count_private=true&custom_title=@Adit0507 "> 
- <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adit0507&theme=radical" />
-</p>
-
+  
   <br>
  
 
