@@ -57,7 +57,10 @@
  
 </div>
   
-  <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adit0507&theme=dark&hide_border=true"/><img 
+   src="https://github-readme-stats.vercel.app/api?username=Adit0507&show_icons=true&theme=tokyonight" 
+/>
+
  
 
   <h2 align="center">Do Check out my Pinned Projects 😃 </h2>
