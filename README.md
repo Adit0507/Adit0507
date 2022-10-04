@@ -11,6 +11,8 @@
 - 📫 Reach me: (adi05072002@gmail.com)
 - ⚡ Fun Fact: I'm a film buff
 
+[![@adityaksingh's Holopin board](https://holopin.io/api/user/board?user=adityaksingh)](https://holopin.io/@adityaksingh)
+
 ------------
 <h3>Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="35"></h3>
 
