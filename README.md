@@ -10,7 +10,8 @@
 - Ask me about JavaScript
 - 📫 Reach me: (adi05072002@gmail.com)
 - ⚡ Fun Fact: I'm a film buff
-
+------------
+## HacktoberFest Badge 🚀
 [![@adityaksingh's Holopin board](https://holopin.io/api/user/board?user=adityaksingh)](https://holopin.io/@adityaksingh)
 
 ------------
