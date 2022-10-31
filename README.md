@@ -19,9 +19,7 @@
 <a href="https://www.leetcode.com/_aditksingh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_aditksingh" height="30" width="40" /></a>
 
 
--------------------
- [![@adityaksingh's Holopin board](https://holopin.io/api/user/board?user=adityaksingh)](https://holopin.io/@adityaksingh)
- 
+------------------- 
  ## Languages:
  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
