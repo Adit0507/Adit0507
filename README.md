@@ -18,6 +18,10 @@
 <a href="https://www.linkedin.com/in/aditya-kumar-singh-87b0a3208/" target="_blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_aditksingh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_aditksingh" height="30" width="40" /></a>
 
+ -------------------
+ ## Check out my latest video 🚀
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p2EgI6TIJxE/0.jpg)](https://www.youtube.com/watch?v=p2EgI6TIJxE)
+ 
 
 ------------------- 
  ## Languages:
