@@ -8,7 +8,7 @@
 
 - I'm currently learning **Next JS** and **TypeScript**
 - Ask me about JavaScript
-- 📫 Reach me: (adi05072002@gmail.com)
+- 📫 Reach me: (fedelio.0507@gmail.com)
 - ⚡ Fun Fact: I'm a film buff
 ------------
 <h3>Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="35"></h3>
