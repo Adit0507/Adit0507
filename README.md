@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adit0507&label=Profile%20views&color=0e75b6&style=flat" alt="Adit0507" /> </p>
 
 <h3 align="left">About Me:</h3>
-<p>Hi Everyone 👋, I'm Aditya Kumar Singh a pre-final year student of Sikkim Manipal Institute of Technology. I'm currently learning Full Stack web development by building projects and have knowledge about Data Structures and Algorithms. I love contributing to different Open Source projects and being a part of different technical communities as they provide a unique insight into different tech stacks and help in making the tech community better. </p>
+<p>Hi Everyone 👋, I'm Aditya Kumar Singh a final year student of Sikkim Manipal Institute of Technology. I'm currently learning Full Stack web development by building projects and have knowledge about Data Structures and Algorithms. I love contributing to different Open Source projects and being a part of different technical communities as they provide a unique insight into different tech stacks and help in making the tech community better. </p>
 
 - I'm currently learning **Go**
 - Ask me about JavaScript
