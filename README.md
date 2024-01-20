@@ -68,3 +68,7 @@
    src="https://github-readme-stats.vercel.app/api?username=Adit0507&show_icons=true&theme=tokyonight" 
 />
  -------------------------
+
+## 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l9ec5vv29gt9y83d3vy88tg46&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=l9ec5vv29gt9y83d3vy88tg46&redirect=true)
+
