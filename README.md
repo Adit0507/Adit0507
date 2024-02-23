@@ -6,7 +6,7 @@
 <h3 align="left">About Me:</h3>
 <p>Hi Everyone 👋, I'm Aditya Kumar Singh a final year student of Sikkim Manipal Institute of Technology. I'm currently learning Full Stack web development by building projects and have knowledge about Data Structures and Algorithms. I love contributing to different Open Source projects and being a part of different technical communities as they provide a unique insight into different tech stacks and help in making the tech community better. </p>
 
-- I'm currently learning **Go**
+- I'm currently learning **Go** & **Generative Art**
 - Ask me about JavaScript
 - 📫 Reach me: (fedelio.0507@gmail.com)
 - ⚡ Fun Fact: I'm a film buff
