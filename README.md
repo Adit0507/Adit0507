@@ -1,10 +1,9 @@
-![Blue Illustration Programming  Google Classroom Header](https://user-images.githubusercontent.com/78037846/152479672-7c967bfb-b80a-40e1-a962-a5a5a0393e9d.png)
-
+![tenor](https://github.com/Adit0507/Adit0507/assets/78037846/5657cf36-8846-4335-bc1b-c86c9783a265)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adit0507&label=Profile%20views&color=0e75b6&style=flat" alt="Adit0507" /> </p>
 
 <h3 align="left">About Me:</h3>
-<p>Hi Everyone 👋, I'm Aditya Kumar Singh a final year student of Sikkim Manipal Institute of Technology. I'm currently learning Full Stack web development by building projects and have knowledge about Data Structures and Algorithms. I love contributing to different Open Source projects and being a part of different technical communities as they provide a unique insight into different tech stacks and help in making the tech community better. </p>
+<p>Hey Folks, I'm Aditya Kumar Singh a final year student of Sikkim Manipal Institute of Technology. I love learning and experimenting with new things, I have worked at 2 early stage startups till now as a Frontend Dev till now, currently I'm pushing my focus to work towards Backend Dev.</p>
 
 - I'm currently learning **Go** & **Generative Art**
 - Ask me about JavaScript
