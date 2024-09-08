@@ -5,7 +5,7 @@
 <h3 align="left">About Me:</h3>
 <p>Hey Folks, I'm Aditya Kumar Singh a final year student of Sikkim Manipal Institute of Technology. I love learning and experimenting with new things, I have worked at 2 early stage startups till now as a Frontend Dev, currently I'm pushing my focus to work towards Backend Dev.</p>
 
-- I'm currently learning **Go** & **Generative Art**
+- I'm currently learning about **Compilers** & **Databases**
 - Ask me about JavaScript
 - 📫 Reach me: (fedelio.0507@gmail.com)
 - ⚡ Fun Fact: I'm a film buff
