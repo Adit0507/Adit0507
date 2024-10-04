@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adit0507&label=Profile%20views&color=0e75b6&style=flat" alt="Adit0507" /> </p>
 
 <h3 align="left">About Me:</h3>
-<p>Hey Folks, I'm Aditya Kumar Singh a final year student of Sikkim Manipal Institute of Technology. I love learning and experimenting with new things, I have worked at 2 early stage startups till now as a Frontend Dev, currently I'm pushing my focus to work towards Backend Dev.</p>
+<p>Hey Folks, I'm Adi. I love learning and experimenting with new things, I have worked at 2 early stage startups till now as a Frontend Dev, currently I'm pushing my focus to work towards Backend Dev.</p>
 
 - I'm currently learning about **Compilers** & **Databases**
 - 📫 Reach me: (fedelio.0507@gmail.com)
