@@ -13,7 +13,7 @@
 
 <p>
 <a href="https://twitter.com/AditKSingh" target="_blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="aditya twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aditya-kumar-singh-87b0a3208/" target="_blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/singh-adi/" target="_blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
 
 
  -------------------
