@@ -5,9 +5,9 @@
 <h3 align="left">About Me:</h3>
 <p>Hey Folks, I'm Adi. I love to build stuff 😉</p>
 
-- I'm currently learning about **Compilers** & **Databases**
+- I'm currently learning about **Distributed Systems**
 - 📫 Reach me: (fedelio.0507@gmail.com)
-- ⚡ Fun Fact: I'm a film buff: check out my <a href= "https://letterboxd.com/fedelio/" target="_blank">LB</a> 
+- I'm a film buff: check out my <a href= "https://letterboxd.com/fedelio/" target="_blank">LB</a> 
 ------------
 <h3>Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="35"></h3>
 
@@ -17,8 +17,5 @@
 
 
  -------------------
- ## Check out my latest video 🚀
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p2EgI6TIJxE/0.jpg)](https://www.youtube.com/watch?v=p2EgI6TIJxE)
- </div>
-  
+
 
